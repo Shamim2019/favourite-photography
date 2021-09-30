@@ -9,8 +9,15 @@ background-color: crimson;
 
 p{
 font-size: medium;
+}
+
+p{ 
+  font-weight: bold;
+}
+
+img{
+
+height: 150px; 
 
 
-
-
-
+}
