@@ -1,23 +1,4 @@
-body{ 
- padding: 10px; 
-  } 
-
-head{
-
-background-color: crimson;
-}
-
-p{
-font-size: medium;
-}
-
-p{ 
-  font-weight: bold;
-}
-
-img{
-
-height: 150px; 
-
-
+.background{
+  background-color: rgb(218, 224, 224);
+  text-align: center;
 }
